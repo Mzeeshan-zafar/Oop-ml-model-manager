@@ -1,0 +1,8 @@
+# OOP ML Model Manager - Dependencies
+# This project only uses Python built-ins
+# No external libraries required
+
+# Optional (for future extensions):
+# numpy>=1.24.0
+# pandas>=2.0.0
+# scikit-learn>=1.3.0
